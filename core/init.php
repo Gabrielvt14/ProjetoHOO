@@ -7,7 +7,7 @@
 	// Constantes com as credenciais para conexão com o banco de dados MySQL
 	define('MYSQL_HOST', 'mysql.hostinger.com.br');
 	define('MYSQL_USER', 'u649742587_root');
-	define('MYSQL_PASS', 'vigorgabriell');
+	define('MYSQL_PASS', 'SENHA_BD');
 	define('MYSQL_DB_NAME', 'u649742587_hoo');
 
 	// Habilita todas as exibições de erro
